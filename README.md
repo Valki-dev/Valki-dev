@@ -25,7 +25,7 @@
 <br>
 
 ## Gestión de Bases de Datos:
-<img style="border-radius:10px; margin-right:5px;" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><img style="border-radius:10px; margin-right:5px;" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+<img style="border-radius:10px; margin-right:5px;" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 <br>
 
